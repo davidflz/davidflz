@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidflz
-- 👀 I’m interested in learning software development, programming languages, also videogames, music (guitar player), hiking, tv shows, movies. 
+- 👀 I’m interested in learning software development, programming languages, videogames, music (guitar player), hiking, tv shows, movies. 
 - 🌱 I’m currently learning html/css on freecodecamp.org as suggested for begginners and about to start the final projects to advance to javascript algorithms and data structures. 
 - In case you want to reach me just send a pm. \o/
 
