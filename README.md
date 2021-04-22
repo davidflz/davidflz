@@ -4,7 +4,7 @@
 - In case you want to reach me just send a pm. \o/
 - FreeCodeCamp account https://www.freecodecamp.org/davidflz
 - LinkedIN account linkedin.com/in/david-felizardo-9ba5b8210
--  
+
 
 <!---
 davidflz/davidflz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
