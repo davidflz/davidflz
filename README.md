@@ -3,6 +3,9 @@
 - In case you want to reach me just send a pm. \o/
 - FreeCodeCamp account https://www.freecodecamp.org/davidflz
 - Linkedin account https://linkedin.com/in/david-felizardo-9ba5b8210
+- Netlify account https://app.netlify.com/teams/davidflz/overview
+
+
 
 
 <!---
