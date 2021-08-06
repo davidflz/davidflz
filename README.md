@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davidflz
-- 👀 I’m interested in learning software development, programming languages, videogames, music (guitar player), hiking, tv shows, movies. 
-- 🌱 I’m currently learning html/css on freecodecamp.org as suggested for begginners and about to start the final projects to advance to javascript algorithms and data structures. 
+- 👀 I’m interested in learning software development, programming languages, videogames, music (guitar player), hiking, tv shows, movies.  
 - In case you want to reach me just send a pm. \o/
 - FreeCodeCamp account https://www.freecodecamp.org/davidflz
 - Linkedin account https://linkedin.com/in/david-felizardo-9ba5b8210
